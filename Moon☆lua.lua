@@ -225,7 +225,7 @@ end
 -- 主逻辑直接开始
 -- ============================================================
 
-local v8 = (function(...) end)()
+local v8 = (function(https://raw.githubusercontent.com/Cryforme-test/RaX-HUB/refs/heads/main/moon%20lua%20UI%E6%BA%90%E7%A0%81.lua) end)()
 hitlogEnabled = true
 local v9 = TweenService
 local v10 = CoreGui
